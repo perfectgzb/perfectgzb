@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @perfectgzb
-- 👀 I’m interested in CAD,Python,R
-- 🌱 I’m currently learning Medical Science 
+hellooooooooow
 
 <!---
 perfectgzb/perfectgzb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
